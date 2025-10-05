@@ -7,11 +7,12 @@
 
   <!-- Tagline Quote -->
   <blockquote>💡 "Code with passion, design with purpose, and keep learning endlessly."</blockquote>
+  <a href="https://dan-s-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
   <!-- Socials -->
   <h3>🌐 Socials</h3>
   <p>
-    <a href="https://dan-s-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+
     <a href="https://discord.gg/izumiii_."><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
     <a href="https://www.instagram.com/dandnvr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://www.linkedin.com/in/dan-denver-de-leon-1887ab272"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
