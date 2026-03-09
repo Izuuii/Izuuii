@@ -19,17 +19,6 @@
     <a href="mailto:denverdeleon021@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 
-  <!-- About -->
-  <h3>💫 About Me</h3>
-  <p align="left">
-    🧠 I’m currently working on improving and maintaining full‑stack web and mobile applications using the <b>PERN</b> and <b>MERN</b> stacks.<br/>
-    🤝 I’m looking to collaborate on innovative web and mobile projects that focus on usability, design, and real‑time functionality.<br/>
-    🛠 I’m looking for help with mastering <b>backend optimization</b> and <b>advanced API integrations</b>.<br/>
-    🌱 I’m currently learning <b>Next.js</b>, <b>TypeScript</b>, and <b>system architecture best practices</b>.<br/>
-    💬 Ask me about <b>front‑end development</b>, <b>responsive design</b>, and <b>UI/UX improvements</b>.<br/>
-    ⚡ Fun fact: I started coding out of curiosity and turned it into my biggest passion—I enjoy learning new tools every week to make my projects better.
-  </p>
-
   <!-- Tech Stack -->
   <h3>💻 Tech Stack</h3>
   <p>
